@@ -1,6 +1,7 @@
 
 public class Game {
 	public Player player1, player2;
+
 	public Toss matchToss;
 
 	public Game(Player player1, Player player2) {
